@@ -5,7 +5,7 @@ return [
 		'name' => 'Favicon Override',
 		'version' => '4.0.0',
 	],
-	'hooks' => [
+	'events' => [
 		'head' => [
 			'page' => [
 				'\FaviconOverrideHooks::favicon_override_head' => [],

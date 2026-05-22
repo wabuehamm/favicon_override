@@ -1,11 +1,11 @@
-Favicon Override plugin for Elgg 4.0 and newer Elgg 4.X
-=======================================================
+Favicon Override plugin for Elgg 5.0 and up
+===========================================
 
-Latest Version: 4.0.0  
+Latest Version: 5.0.0  
 Released: 2022-05-22  
 Contact: iionly@gmx.de  
 License: GNU General Public License version 2  
-Copyright: (C) iionly 2016
+Copyright: (C) iionly 2026
 
 
 Description
